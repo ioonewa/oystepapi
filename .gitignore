@@ -1,0 +1,10 @@
+__pycache__
+.env
+venv
+__venv__
+
+work_with_data
+
+properties.txt
+
+.DS_Store

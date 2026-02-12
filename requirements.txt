@@ -1,0 +1,6 @@
+fastapi[gunicorn]
+
+pydantic
+pydantic-settings
+
+pyjwt
